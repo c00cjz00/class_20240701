@@ -1,5 +1,6 @@
 # class_20240701
 - Get nvidia api key
+
 https://build.nvidia.com/nvidia/nemotron-4-340b-instruct
 
 - Open colab
