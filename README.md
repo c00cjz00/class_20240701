@@ -1,4 +1,5 @@
 # class_20240701
+## Lession 1
 - Get nvidia api key
 https://build.nvidia.com/nvidia/nemotron-4-340b-instruct
 
@@ -14,3 +15,6 @@ client = OpenAI(
 )
 ```
 
+## Lession 2
+
+https://aistudio.google.com/app/prompts/new_chat?pli=1
